@@ -1,1 +1,1 @@
-# numpy_python
+Basic functions in Numpy library
